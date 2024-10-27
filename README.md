@@ -1,4 +1,4 @@
-# Kurs Web Sayfası
+# Udemig Kurs Web Sayfası
 
 Bu proje, HTML, CSS ve Visual Studio kullanılarak geliştirilmiş bir kurs web sayfasıdır. Kullanıcı dostu bir arayüz ile kurs bilgilerini sunmayı amaçlamaktadır. Proje, temel web geliştirme becerilerini öğrenmek ve uygulamak isteyenler için harika bir örnektir.
 
